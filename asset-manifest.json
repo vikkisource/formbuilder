@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/formbuilder/static/css/main.59de09dc.css",
+    "main.js": "/formbuilder/static/js/main.0a7429da.js",
+    "static/js/787.fcd7b50a.chunk.js": "/formbuilder/static/js/787.fcd7b50a.chunk.js",
+    "static/media/Poppins-Regular.ttf": "/formbuilder/static/media/Poppins-Regular.4211496d0e075ffe7c2f.ttf",
+    "static/media/Poppins-Medium.ttf": "/formbuilder/static/media/Poppins-Medium.c5eb70982e90502d0d01.ttf",
+    "static/media/Poppins-Bold.ttf": "/formbuilder/static/media/Poppins-Bold.300a4da54f1e6258b6f7.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/formbuilder/static/media/Poppins-ExtraBold.c2cc929b28dbf8a30cfd.ttf",
+    "static/media/userprofile.jpg": "/formbuilder/static/media/userprofile.e59bea90539c641b0425.jpg",
+    "index.html": "/formbuilder/index.html",
+    "main.59de09dc.css.map": "/formbuilder/static/css/main.59de09dc.css.map",
+    "main.0a7429da.js.map": "/formbuilder/static/js/main.0a7429da.js.map",
+    "787.fcd7b50a.chunk.js.map": "/formbuilder/static/js/787.fcd7b50a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59de09dc.css",
+    "static/js/main.0a7429da.js"
+  ]
+}
