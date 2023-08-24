@@ -23,7 +23,7 @@ function App() {
     <div className="App">
       
     <Routes>
-       <Route path="/formbuilder" element={<Dashboard />} />
+       <Route path="formbuilder" element={<Dashboard />} />
       <Route path="/" element={<Dashboard />} />
       <Route path="/build" element={<Build />} />
 
